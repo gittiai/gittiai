@@ -2,10 +2,6 @@
 <h3 align="center">GenAI Builder | AI Agents | Graph RAG | Student @ LNMIIT</h3>
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey,+I'm+Gittai!+👋;GenAI+Builder+|+Agentic+AI+Engineer;Let's+Build+Something+Incredible!" alt="Typing SVG" />
-</p>
-
 
 🌟 I'm a 2nd-year Engineering student at **LNMIIT**, passionate about building real-world **AI/GenAI tools** using technologies like LangChain, LangGraph, Neo4j, and more.
 
@@ -31,15 +27,10 @@
 
 ---
 
-
-
-
-
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-lnmiit/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/AdityaShiv39353)
-
 
 ---
 
