@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Aditya</h1>
-<h3 align="center">GenAI Builder | AI Agents 🚀 | Graph RAG | Student @ LNMIIT</h3>
+<h3 align="center">GenAI Builder | AI Agents | Graph RAG | Student @ LNMIIT</h3>
 
 ---
 
@@ -32,6 +32,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gittai&show_icons=true&theme=tokyonight" />
 </p>
+
+### 🧠 Languages Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gittai&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gittai&theme=tokyonight" />
+</p>
+
 
 
 ### 📬 Let's Connect
