@@ -27,34 +27,12 @@
 
 ---
 
-### 🧩 Featured Projects
-
-🔹 **NeuroBuddy** – Your Multimodal Study Companion  
-> 📚 Supports Document Q&A, MCQ generation, Web summarization, and Image-based queries  
-> 🧠 Built using LangChain, Gemini Pro Vision, Streamlit, FAISS
-
-🔹 **AutoAgent** – An Agent That Builds Agents  
-> 🤖 Multi-agent system that generates full AI agents based on user tasks  
-> 🛠️ LangGraph, Groq, planner → coder → fixer architecture
-
-🔹 **DraftGenie** – AutoCAD + GenAI Assistant  
-> ✏️ Text-to-design AI assistant for engineering design using multimodal LLMs  
-> 🎯 FastAPI + Gemini Vision + AutoCAD APIs
-
-🔹 **Medical Wallah + MedixAgent** – AI for Healthcare & Doctor Booking  
-> 💊 RAG + Agent-based system with disease Q&A, appointment booking, forums, and more
-
-🔹 **Lawyer Ban Gya** – GenAI Copilot for LegalTech  
-> ⚖️ Graph RAG + Neo4j-powered assistant for legal research, citations, and compliance
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityayadav-ai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gittai&show_icons=true&theme=tokyonight" />
 </p>
 
----
 
 ### 📬 Let's Connect
 
