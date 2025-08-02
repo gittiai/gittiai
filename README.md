@@ -3,7 +3,7 @@
 
 ---
 
-🌟 I'm a 2nd-year Mechatronics Engineering student at **LNMIIT**, passionate about building real-world **AI/GenAI tools** using cutting-edge technologies like LangChain, LangGraph, Neo4j, Groq, and more.
+🌟 I'm a 2nd-year Mechatronics Engineering student at **LNMIIT**, passionate about building real-world **AI/GenAI tools** using technologies like LangChain, LangGraph, Neo4j, and more.
 
 🔬 Currently focused on:
 - Building advanced **RAG pipelines (hybrid, multimodal, graph-based)**
