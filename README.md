@@ -3,7 +3,7 @@
 
 ---
 
-🌟 I'm a 2nd-year Mechatronics Engineering student at **LNMIIT**, passionate about building real-world **AI/GenAI tools** using technologies like LangChain, LangGraph, Neo4j, and more.
+🌟 I'm a 2nd-year Engineering student at **LNMIIT**, passionate about building real-world **AI/GenAI tools** using technologies like LangChain, LangGraph, Neo4j, and more.
 
 🔬 Currently focused on:
 - Building advanced **RAG pipelines (hybrid, multimodal, graph-based)**
@@ -43,4 +43,8 @@
 ---
 
 💡 *Always building. Always learning. Let’s connect and innovate together!*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+😊;Connect+me+on+LinkedIn!;I'm+always+ready+to+collab+:)" alt="Typing SVG" />
+</p>
+
 
