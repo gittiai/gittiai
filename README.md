@@ -34,12 +34,11 @@
 </p>
 
 ### 🧠 Languages Overview
+### 🧠 Language Usage
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gittai&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gittai&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gittai&layout=compact&theme=tokyonight" />
 </p>
-
 
 
 ### 📬 Let's Connect
