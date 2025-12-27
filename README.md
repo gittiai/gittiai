@@ -3,7 +3,7 @@
 
 ---
 
-🌟 I'm a 2nd-year Engineering student at **LNMIIT**, passionate about building real-world **AI/GenAI tools** using technologies like LangChain, LangGraph, Neo4j, and more.
+🌟 I'm a Engineering student at **LNMIIT**, passionate about building real-world **AI/GenAI tools** using technologies like LangChain, LangGraph, Neo4j, and more.
 
 🔬 Currently focused on:
 - Building advanced **RAG pipelines (hybrid, multimodal, graph-based)**
