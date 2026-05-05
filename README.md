@@ -9,9 +9,7 @@
 🧠 I'm also exploring AI for education, law, and healthcare — solving problems through smart assistants and multi-agent systems.
 ---
 ### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+
 
 ![LangChain](https://img.shields.io/badge/-LangChain-blueviolet?style=flat)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-orange?style=flat)
