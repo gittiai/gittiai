@@ -10,14 +10,32 @@
 ---
 ### 🛠️ Tech Stack & Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+
 ![LangChain](https://img.shields.io/badge/-LangChain-blueviolet?style=flat)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-orange?style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+![LangSmith](https://img.shields.io/badge/-LangSmith-FF6B35?style=flat)
+![CrewAI](https://img.shields.io/badge/-CrewAI-6366F1?style=flat)
+![RAG](https://img.shields.io/badge/-RAG-8B5CF6?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-7C3AED?style=flat)
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat&logo=google)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=000)
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
+
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat&logo=neo4j)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+
 ---
 ### 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-lnmiit/)
