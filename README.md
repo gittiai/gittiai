@@ -1,13 +1,14 @@
 <h1 align="center">Hey 👋, I'm Aditya</h1>
 <h3 align="center">GenAI Builder | AI Agents | Graph RAG | Student @ LNMIIT</h3>
----
+
 🌟 I'm a Engineering student at LNMIIT, passionate about building real-world AI/GenAI tools using technologies like LangChain, LangGraph, Neo4j, and more.
 🔬 Currently focused on:
 - Building advanced RAG pipelines (hybrid, multimodal, graph-based)
 - Designing powerful AI Agents with memory, planning, and tool-use
 - Experimenting with LLMs, vision models**, and agentic workflows
 🧠 I'm also exploring AI for education, law, and healthcare — solving problems through smart assistants and multi-agent systems.
----
+
+
 ### 🛠️ Tech Stack & Tools
 
 
