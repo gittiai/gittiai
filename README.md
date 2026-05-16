@@ -5,7 +5,7 @@
 🔬 Currently focused on:
 - Building advanced RAG pipelines (hybrid, multimodal, graph-based)
 - Designing powerful AI Agents with memory, planning, and tool-use
-- Experimenting with LLMs, vision models**, and agentic workflows
+- Experimenting with LLMs, vision models, and agentic workflows
 🧠 I'm also exploring AI for education, law, and healthcare — solving problems through smart assistants and multi-agent systems.
 
 
